@@ -40,6 +40,7 @@ gem 'jquery-rails'
 # gem 'debugger'
 group :test do
 	gem 'capybara'
+	gem 'spork'
 end
 
 group :production do
